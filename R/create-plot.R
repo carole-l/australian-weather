@@ -7,7 +7,7 @@ library("tidyverse")
 df = read_csv("data/weatherAUS.csv")
 
 
-# Create a new scatter plot with several points of Humidity9am and Temp9am a location lkjljp
+# Create a new scatter plot with several points of mfl,dsf Humidity9am and Temp9am a location lkjljp
 
 
 city = "Brisbane"
